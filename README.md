@@ -72,4 +72,14 @@ The objective of this project is to practice SQL querying techniques and develop
 - Problem Solving
 
 ---
+## Project walkthrough
+
+
+https://github.com/user-attachments/assets/3983eb0b-a341-4fa5-8041-967c01923fb2
+
+
+
+
+
+
 
