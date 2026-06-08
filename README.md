@@ -54,7 +54,8 @@ The objective of this project is to practice SQL querying techniques and develop
 ---
 
 ## Query Preview
-<img width="1920" height="991" alt="MySQL Workbench 08_05_2026 20_41_07" src="https://github.com/user-attachments/assets/9871b1a4-fa31-4ec2-9c4c-315fdf4e79de" />
+<img width="1490" height="687" alt="-TFQ-Sales-SQL-" src="https://github.com/user-attachments/assets/af4e0d61-8fa2-439e-ad1a-2674441de465" />
+
 
 
 ---
